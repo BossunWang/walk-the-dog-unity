@@ -14,6 +14,14 @@ Download the pre-processed motion data and pre-trained models from [Google Drive
 
 Open the project with Unity. The project is developed with Unity 2022.3.8f1 Apple Silicon version.
 
+* install Nuget
+```bash
+sudo apt install npm
+sudo npm install -g openupm-cli
+openupm add com.github-glitchenzo.nugetforunity
+```
+* NuGet > Manage NuGet Packages
+* install NumSharp and Microsoft.ML.OnnxRuntime
 
 ## Quick Start
 
